@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkturn2x=self.webpackChunkturn2x||[]).push([[916],{2185:function(e,n,s){s(7294);n.Z=s.p+"static/energie360.408368c3.svg"}}]);
+//# sourceMappingURL=74248839-444ba4b8af810ffe4c1d.js.map
