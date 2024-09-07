@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkturn2x=self.webpackChunkturn2x||[]).push([[597],{1835:function(e,t,n){n.r(t);var l=n(7294),a=n(1640),r=n(7308),c=n(5061),s=n(8157),u=n(1038);t.default=e=>{const t=(0,s.mS)(e.location);return l.createElement(l.Fragment,null,l.createElement(r.Z,{title:c.eA,description:c.$e,page:"/plant",keywords:c.keys}),l.createElement(a.Z,Object.assign({},e,{lang:t}),l.createElement(u.Z,null)))}}}]);
+//# sourceMappingURL=component---src-pages-plant-jsx-c263d0b44da83f9d4444.js.map
