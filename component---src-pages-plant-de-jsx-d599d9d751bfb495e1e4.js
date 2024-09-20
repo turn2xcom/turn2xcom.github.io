@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkturn2x=self.webpackChunkturn2x||[]).push([[848],{8378:function(e,t,n){n.r(t);var l=n(7294),a=n(1640),r=n(7308),c=n(5061),s=n(1038);t.default=e=>l.createElement(l.Fragment,null,l.createElement(r.Z,{title:c.eA,description:c.$e,page:"/plant",keywords:c.keys}),l.createElement(a.Z,Object.assign({},e,{lang:"de"}),l.createElement(s.Z,null)))}}]);
-//# sourceMappingURL=component---src-pages-plant-de-jsx-d599d9d751bfb495e1e4.js.map
